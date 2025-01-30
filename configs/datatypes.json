@@ -1,0 +1,10 @@
+{
+    "p_din": [".Sts", ".Sts_TgtDisagree"],
+    "p_intotalizer": [".PV", ".Total_D", ".H_VAL_0", ".H_VAL_1", ".D_VAL_0", ".D_VAL_1", ".M_VAL_0", ".M_VAL_1"],
+    "p_ain": [".Val", ".Val_PVMaxCapt", ".Val_PVMinCapt"],
+    "motor": [".DESL", ".FAIL", ".InTens", ".InZsFc", ".OutCorr", ".OutPotAt", ".OutRot", ".SAIDA", ".STATUS", ".AM"],
+    "p_ain_dual": [".Val", ".Val_PVMaxCapt", ".Val_PVMinCapt", ".Val_AvgPV", ".Val_AVGV", ".Val_DIFF", ".Val_PVA", ".Val_PVB"],
+    "p_aout": [".PSet_CV", ".PSet_CVRoCLimDec", ".PSet_CVRoCLimInc", ".Val_CVOut", ".AM"],
+    "xv_onoff": [".AM", ".FAIL", ".saida", ".ZSH", ".ZSL"],
+    "pid": [".PSet_CVRoCLimDec", ".PSet_CVRoCLimInc", ".Val", ".Val_CVOut", ".Val_CVSet", ".Val_HiDevLim",".Val_LoDevLim",".Val_PV",".Val_SP",".AM"]
+}
